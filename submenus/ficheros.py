@@ -1,0 +1,2 @@
+def fichero():
+    print('Fichero')

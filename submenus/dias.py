@@ -1,0 +1,2 @@
+def dias():
+    print('Dias')
